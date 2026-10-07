@@ -1,6 +1,6 @@
 # NestJS + TypeORM 과제 제출 자료
 
-검증일: 2026-10-07. 프로젝트는 `study`입니다. 기존 Entity·DTO·Module·Service·Controller 구현을 재사용했고, 이번에는 실DB 검증 결과를 출력하는 스크립트와 제출 문서를 보완했습니다. GitHub 업로드는 수행하지 않았습니다.
+검증일: 2026-10-07. 프로젝트는 `study`입니다. 기존 Entity·DTO·Module·Service·Controller 구현을 재사용했고, 이번에는 실DB 검증 결과를 출력하는 스크립트와 제출 문서를 보완했습니다.
 
 ## 실제 스키마와 구현
 
